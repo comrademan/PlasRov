@@ -1,0 +1,122 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_6802.JPG</filename>
+	<path>C:\Users\kevin\Documents\Tensorflow\workspace\PlasRov\images\train\IMG_6802.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>PET Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>767</xmin>
+			<ymin>785</ymin>
+			<xmax>1806</xmax>
+			<ymax>1018</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PET Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2587</xmin>
+			<ymin>1443</ymin>
+			<xmax>4032</xmax>
+			<ymax>2485</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PET Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1074</xmin>
+			<ymin>1418</ymin>
+			<xmax>1751</xmax>
+			<ymax>1692</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PET Bottle(Blue)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>477</xmin>
+			<ymin>1588</ymin>
+			<xmax>1712</xmax>
+			<ymax>2727</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PET Bottle(Blue)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1754</xmin>
+			<ymin>588</ymin>
+			<xmax>2280</xmax>
+			<ymax>979</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PET Bottle(Blue)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1541</xmin>
+			<ymin>1076</ymin>
+			<xmax>1864</xmax>
+			<ymax>1285</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PET Bottle(Blue)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3058</xmin>
+			<ymin>1069</ymin>
+			<xmax>3677</xmax>
+			<ymax>1498</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PET Bottle(Blue)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1845</xmin>
+			<ymin>1347</ymin>
+			<xmax>2206</xmax>
+			<ymax>1676</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>PET Bottle(Blue)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1732</xmin>
+			<ymin>1914</ymin>
+			<xmax>2196</xmax>
+			<ymax>2430</ymax>
+		</bndbox>
+	</object>
+</annotation>

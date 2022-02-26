@@ -1,5 +1,12 @@
 # PlasRov: Microcontroller-Based Nurdle Tracking Using Image Detection and Near-Infrared Spectroscopy
 
+Because a form of microplastics known as nurdles are small-rounded plastics used for manufacturing have been one of the major contributors to the buildup of smaller microplastics, this innovation addresses this issue through building a low-cost rover tracking these particles near shoreline. This involves training 150 pictures of polyethylene plastic pellets under sand and differing lighting and amounts, and running this compressed object detection model using the Raspberry Pi 3. Additionally, the AS7263 NIR sensor is connected to the Arduino BLE Sense 33 to determine the amount of near-infrared reflectance found in polyethylene as another metric for detecting these particles. 
+
+In this GitHub repository I created, trained an object detection model on detecting 5mm microplastics, including nurdles, with the help of API codes and models (referenced below). However, the data augmentation file was written by myself and I collected my own data for training. This repository does not include all the training images due to a large size that cannot be pushed into this online repository.
+
+
+**References**
+
 Websites and Articles:
 
 

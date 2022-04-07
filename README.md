@@ -4,6 +4,7 @@ Because a form of microplastics known as nurdles are small-rounded plastics used
 
 In this GitHub repository I created, trained an object detection model on detecting 5mm microplastics, including nurdles, with the help of API codes and models (referenced below). However, the data augmentation file was written by myself and I collected my own data for training. This repository does not include all the training images due to a large size that cannot be pushed into this online repository.
 
+If you wanted to get the data where I calculated the p-values for my "Average Readings for 6 NIR Wavelenghts" its attached on the "Datasheet.xlsx".
 
 **References**
 
